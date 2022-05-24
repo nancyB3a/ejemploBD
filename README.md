@@ -20,4 +20,4 @@ Este proyecto fue creado con CAPACITOR
 
 6.	npx cap open Android
 
-En Android Studio configuro un equipo de acuerdo a los requerimientos del archivo ‘variables.gradle’ (que se ubica dentro de la carpeta android).
+En Android Studio configuro un dispositivo virtual de acuerdo a los requerimientos del archivo ‘variables.gradle’ (que se ubica dentro de la carpeta android).
