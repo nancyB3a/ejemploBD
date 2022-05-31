@@ -10,14 +10,14 @@ Este proyecto fue creado con CAPACITOR
 
 #Agrego plataforma Nativa
 
-4.	ionic capacitor add Android
+4.	ionic capacitor add android
 
 #sincronizo
 
-5.	ionic capacitor sync Android
+5.	ionic capacitor sync android
 
 #Abro el Android
 
-6.	npx cap open Android
+6.	npx cap open android
 
 En Android Studio configuro un dispositivo virtual de acuerdo a los requerimientos del archivo ‘variables.gradle’ (que se ubica dentro de la carpeta android).
